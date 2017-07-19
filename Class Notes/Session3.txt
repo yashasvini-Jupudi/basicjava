@@ -1,3 +1,10 @@
 Session 3:
 
-SESSION 3 NOTES 
+git status  --checking any changes
+git add * --adding all changes
+git status —checking to see if unchanged files were added
+git commit -m “(give a message)” —storing all information before pushing to git
+git push origin master —pushing to git
+
+
+
