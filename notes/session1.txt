@@ -1,1 +1,45 @@
-session.txt
+SESSION 1 NOTES
+
+Hardware+software=computer
+
+HARDWARE:
+
+1.Things you can touch/feel (some you can see outside and some are inside which needs to open the case)
+
+- Example; Mouse, keyboard( can be seen) , CPU,Motherboard,Hard disk(need to open the cover)
+
+CPU:
+1. CPU= human brain
+
+2. C=Central, P=processing, U=Unit
+
+RAM:
+1. RAM= scratch pad after you are done using it you show it away which is RAM
+
+HARD DISK
+
+1. HARD DISK is wear you save things
+
+SOFTWARE
+
+Binary:
+
+1. there are only 2 numbers in the binary system
+ 1&2.
+
+2. To convert decimal to binary
+
+-split the number in multiple of 2
+-for ex: 83
+-64+16+2+1
+-remember in binary place values are multiple of 2
+-in above we have missing 4, 8, 32 means it will be zero in the place
+-start from last number
+-1 is mean 1 ( 1)
+-2 means second place 1 ( 11 )
+-4 missing meaning third place 0 ( 011 )
+-8 missing meaning fourth place 0 ( 0011 )
+-16 means fifth place 1 ( 10011)
+-32 missing means 6th place 0 ( 010011)
+-64 means 7th place 1 ( 1010011)
+-1010011

@@ -6,5 +6,38 @@ git status —checking to see if unchanged files were added
 git commit -m “(give a message)” —storing all information before pushing to git
 git push origin master —pushing to git
 
+——————————————————————————————————————————————————————————————————————————————————————————
+
+MODIFYING THE FILES
+
+The procedure is same except instead of creating new file you will be modifying.
+
+open command prompt
+cd \
+cd gitlearn\basicjava
+notepad session3.txt
+modify with new notes
+File->Save
+quit notepad
+git status
+git add *
+git commit -m "comment"
+git push origin master
+
+—————————————————————————————————————————————————————————————————————————————————————————-
+
+DELETING THE FILES
+
+use del command ( or use file explorer)
+repeat the above git commands
+
+—————————————————————————————————————————————————————————————————————————————————————————-
+
+Command	                             Description
+
+git status	                shows the status of any additions/modifications/deletions
+git add *	                adds the files to local
+git commit -m"some comment'	commits to local repository
+git push origin master	        they are in your github account 
 
 

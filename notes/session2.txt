@@ -1,0 +1,34 @@
+SESSION 2 NOTES
+
+VALUSE-BITS-BYTES
+
+1) 8 bits can carry 256 values which are plenty for alphabets+numbers+other characters. Earlier computers grouped 8 bits and called as Byte
+
+2) 8 bits	                  1 bytes
+1024 bytes (10^3)	          1 Kilo byte ( it is not 1000 as it is exponent of 2)
+1024*1024 bytes (10^6)	          1 Mega byte
+1024 * 1024 * 1024 bytes (10^9)	  1 Giga byte
+
+ECLIPSE
+
+1)Eclipse is another Software, where we can use to develop our own programs(software). Eclipse is different kind of program where it is used to develop again programs compared to other programs like notepad
+
+HOW TO CREAT JAVA PROJECT, JAVA CLASS, & anything that involves java
+
+1) Open eclipse 
+2) Go to file
+3) Then go to new
+4) There click Java project 
+4) In project name name it what is necassary 
+5) The click finish at the bottom 
+6) Then again go to file 
+7) click class then name it what ever is necessary  
+8) check the box where it said public status void main(string() args)
+9) sometimes you may need to click the small icon on left or right
+10) Enjoy 
+
+
+
+
+
+
