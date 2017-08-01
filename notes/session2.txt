@@ -19,13 +19,13 @@ HOW TO CREAT JAVA PROJECT, JAVA CLASS, & anything that involves java
 2) Go to file
 3) Then go to new
 4) There click Java project 
-4) In project name name it what is necassary 
+4) In project name name it what is necessary. 
 5) The click finish at the bottom 
 6) Then again go to file 
 7) click class then name it what ever is necessary  
 8) check the box where it said public status void main(string() args)
 9) sometimes you may need to click the small icon on left or right
-10) Enjoy 
+10) Enjoy.
 
 
 
