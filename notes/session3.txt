@@ -1,4 +1,4 @@
-Session 3:
+ Session 3:
 
 git status  --checking any changes
 git add * --adding all changes
